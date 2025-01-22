@@ -10,7 +10,7 @@ Find the ip of the `server` and the `attacker`
 
 **2.** We see the `http` requests as follows:
 
-![Uploading Server_Attacker.png…]()
+![Server_Attacker](https://github.com/user-attachments/assets/c919989e-d34d-46df-b5e8-8995d97d457f)
 
 
 **3.** We see that the `source` and `destination` ip where the `http` requests are sent and recieved.
