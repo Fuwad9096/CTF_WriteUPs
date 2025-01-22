@@ -12,7 +12,7 @@ On which port does the web-based server management system is working?
 ![cockpit](https://github.com/user-attachments/assets/3d823159-3603-473b-a65d-5f49ec5a09ca)
 
 
-**3.** We see in the `destination port` tab we see that it is `9090`
+**3.** We see in the `destination port` tab and see that it's port `9090`
 
 **4.** The flag is:
 
