@@ -13,6 +13,8 @@ Find the real admin's ip address
 
 **2.** Press `CTRL + F` to open the search bar and type the keyword `admin` in the search bar.
 
+![Real_admin](https://github.com/user-attachments/assets/928401a2-8203-4327-8a10-a39f1e1c2f06)
+
 **3.** This process will filter out HTTP packets that do not belong to `192.168.1.9`. Searching for **admin** will highlight packets containing the string `admin`. If `192.168.1.3` appears in the packet data, it is likely the actual ip address of the admin.
 
 **4.** The flag is:
