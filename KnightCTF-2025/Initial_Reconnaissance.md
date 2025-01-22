@@ -17,6 +17,7 @@ ip.addr == 192.168.1.9 && http
 **3.** We will be able to see a tool name in one of the `http` request like the one below:
 
 
+![nikto_KnightCTF2025](https://github.com/user-attachments/assets/a522ac78-b405-4606-82e6-cc439d23b2aa)
 
 **4.** We find that the tool `Nikto` has been used by the attacker. So, the flag is:
 
